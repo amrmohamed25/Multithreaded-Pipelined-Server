@@ -1,0 +1,4 @@
+POST hello.html 127.0.0.1 1234
+GET data.txt 127.0.0.1 1234
+GET data.txt 127.0.0.1 1234
+GET hi.html 127.0.0.1 1234
